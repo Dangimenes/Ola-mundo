@@ -2,3 +2,5 @@
  primeiro repositorio versionado
 
 repositório criado durante aula sobre Git e Github
+
+Essa linha foi adicionada direto no site
